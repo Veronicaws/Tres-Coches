@@ -238,6 +238,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\QuitGame.cs" />
     <Compile Include="Assets\scripts\CocheMorado.cs" />
     <Compile Include="Assets\scripts\CocheNaranja.cs" />
     <Compile Include="Assets\scripts\CocheVerde.cs" />

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: D:/New Unity Project/Assets/juego coches.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
